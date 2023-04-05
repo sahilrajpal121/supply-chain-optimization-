@@ -1,0 +1,29 @@
+Warehouse_name,State,Latitude,Longitude,Capacity (tons)
+WH1,Andhra Pradesh,15.91,79.74,3603
+WH2,Arunachal Pradesh,28.21,94.72,2278
+WH3,Assam,26.2,92.93,2422
+WH4,Bihar,25.09,85.31,3191
+WH5,Chhattisgarh,21.27,81.86,3716
+WH6,Goa,15.29,74.12,2239
+WH7,Gujarat,22.25,71.19,3035
+WH8,Haryana,29.05,76.08,3384
+WH9,Himachal Pradesh,31.1,77.17,3348
+WH10,Jharkhand,23.61,85.27,2921
+WH11,Karnataka,14.55,75.58,2998
+WH12,Kerala,10.85,76.27,2395
+WH13,Madhya Pradesh,22.97,78.65,2158
+WH14,Maharashtra,19.75,75.71,3584
+WH15,Manipur,24.66,93.9,2450
+WH16,Meghalaya,25.46,91.36,2099
+WH17,Mizoram,23.16,92.93,2941
+WH18,Nagaland,26.16,94.56,3095
+WH19,Odisha,20.95,85.09,3346
+WH20,Punjab,31.14,75.34,3093
+WH21,Rajasthan,27.02,74.21,2487
+WH22,Sikkim,27.53,88.51,2460
+WH23,Tamil Nadu,11.12,78.65,3620
+WH24,Telangana,17.12,79.02,3198
+WH25,Tripura,23.94,91.98,2866
+WH26,Uttar Pradesh,26.84,80.94,2876
+WH27,Uttarakhand,30.06,79.01,3405
+WH28,West Bengal,22.98,87.85,3476
